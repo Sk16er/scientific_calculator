@@ -14,3 +14,9 @@
 
 - light mode ![image](https://github.com/user-attachments/assets/7868a684-bb34-437e-9bcd-96925d3fb116)
 
+
+  # live at
+  > https://sk16er.github.io/scientific_calculator/
+
+  ## [cal](https://sk16er.github.io/scientific_calculator/)
+
